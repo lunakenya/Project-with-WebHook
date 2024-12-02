@@ -1,7 +1,7 @@
 # Node.js Webhook
 ## Name
 
-    Kenya Luna
+-Kenya Luna
 
 ## Node.js Webhook Example with Ngrok
 
@@ -16,9 +16,9 @@ This project is a basic "Hello, World!" webhook implementation built with Node.j
 
 ## Requirements
 
-    -Node.js (version 16 or higher)
-    -npm (Node package manager)
-    -Ngrok (installed and configured)
+ -Node.js (version 16 or higher)
+ -npm (Node package manager)
+ -Ngrok (installed and configured)
 
 ## Installation
 1. Clone this repository:
