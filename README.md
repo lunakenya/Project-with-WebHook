@@ -16,14 +16,14 @@ This project is a basic "Hello, World!" webhook implementation built with Node.j
 
 ## Requirements
 
- -Node.js (version 16 or higher)
- -npm (Node package manager)
- -Ngrok (installed and configured)
+ - Node.js (version 16 or higher)
+ - npm (Node package manager)
+ - Ngrok (installed and configured)
 
 ## Installation
 1. Clone this repository:
 ```bash
-   git clone 
+   git clone https://github.com/lunakenya/Project-with-WebHook.git
    ```
 2. Install dependencies:
 ```bash
