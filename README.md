@@ -59,6 +59,3 @@ In your terminal, the server should print the received event:
 ![imagen](https://github.com/user-attachments/assets/a20d1d71-6a9b-44b0-905d-1ce5f2d40b12)
 
 ![imagen](https://github.com/user-attachments/assets/8c6c870a-09a7-40bd-bef4-7a3ae5c34aa9)
-
-Expose the application using Ngrok:
-
